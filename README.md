@@ -1,2 +1,2 @@
 # adventure
-some project for myself!!
+some project for myself
