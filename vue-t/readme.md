@@ -4,23 +4,14 @@
 
 nginx 配置
 /conf/nginx.conf
-<code>  
 
+<pre><code>  
 
-#user  nobody;
 worker_processes  1;
-
-#error_log  logs/error.log;
-#error_log  logs/error.log  notice;
-#error_log  logs/error.log  info;
-
-#pid        logs/nginx.pid;
-
 
 events {
     worker_connections  1024;
 }
-
 
 http {
     include       mime.types;
@@ -56,4 +47,4 @@ http {
     }
 
 }
-</code>
+</code></pre>
