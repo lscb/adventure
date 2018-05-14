@@ -8,5 +8,3 @@ some project for myself
 vue-t: vue.js 的一个简单项目 调用百度地图api做了一个热力图实现 </br>
 vue-server: spring boot 的一个简单项目  用作vue-t调用请求的服务端 </br>
 vue.js 用 nginx 来解决请求跨域的问题 </br>
-
-ps:最近项目很紧人在出差，没什么时间更新，预计下次有明显的新大概是在五一那几天
